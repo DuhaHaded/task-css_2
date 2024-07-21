@@ -1,0 +1,24 @@
+.TEAM{
+    text-align: center;
+   
+    
+}
+P{
+    color: darkgray;
+   
+    text-align: center;
+    
+   
+}
+    
+
+
+
+.item1{
+   
+    float: left;
+    width: 33%;
+}
+.clearfix{
+    clear:both;
+}
